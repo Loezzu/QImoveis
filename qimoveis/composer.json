@@ -1,0 +1,14 @@
+{
+    "name": "luiz/finalproject",
+    "description": "php final project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Souza e Bruno Koster",
+            "email": "luixsouza12@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
